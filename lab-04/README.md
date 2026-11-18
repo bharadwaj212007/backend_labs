@@ -92,11 +92,11 @@ All practical screenshots are available in the `screenshots/` folder.
 
 ## 7. Deployment
 
-**Deployed Application URL:** [Add deployed URL]
+**Deployed Application URL:https://backend-lab-4-ombn.onrender.com
 
 ## 8. GitHub Repository
 
-**GitHub Repository URL:** [Add GitHub repository URL]
+**GitHub Repository URL:https://github.com/bharadwaj212007/backend_labs
 
 ## 9. Conclusion
 
